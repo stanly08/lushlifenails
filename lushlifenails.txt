@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><b>LUSH LIFE NAILS</b></title>
+  <style>
+        /* Apply custom fonts */
+        body {
+            font-family: 'Exo 2', sans-serif;
+        }
+        h1 {
+            font-family: 'Kaushan Script', cursive;
+        }
+h2 {
+            color: black;
+        }
+body {
+    background-color: cyan;
+}
+
+        /* Define a theme */
+        body {
+            background: linear-gradient(rgba(255, 105, 180, 0.6), rgba(139, 69, 19, 0.6), rgba(0, 0, 0, 0.6)),
+                        url('your-image.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff; /* White text color for readability */
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.5); /* Transparent black header background */
+            padding: 20px;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+        }
+        section {
+            background-color: rgba(255, 255, 255, 0.7); /* Light pink section background */
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px;
+        }
+        footer {
+            background-color: rgba(0, 0, 0, 0.5); /* Transparent black footer background */
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+<h1>LUSHLIFE NAILS</h1>
+        <h1>Welcome to lush life nails</h1>
+    </header>
+    <nav>
+        <section id="About">
+            <h2>About us</h2>
+            <p>Welcome to LushLife Nails, where beauty meets perfection. We take pride in providing the best nail services in town.</p>        
+</section>
+        <section id="services">
+            <h2>Our services</h2>
+            <ol>
+                <li><em>Manicures</em> - Experience the perfect manicure with our skilled professionals.</li>
+                <li><em>Pedicures</em> - Relax and rejuvenate with our luxurious pedicure treatments.</li>
+                <li><em>Nail art</em> - Express yourself with our creative nail art designs.</li>
+                <li><em>Massage</em> - An experirnce like no other with magic hands to male you relax.</li>
+            </ol>
+        </section>
+        <section id="Contacts">
+            <h2>Contact us</h2>
+            <address>
+                <p><em>Lush life nails</em></p>
+                <p><em>Opposite ice cream bar, near seasons hotel</em></p>
+                <p><em>Juja, Kiambu 10100.</em></p>
+                <p><em>Email; Info@Lushlifenails.com</em></p>
+                <p><em>Phone; +254(0)716 220 086</em></p>
+            </address>
+        </section>
+    </nav>
+    <footer>
+        <p>&copy; @2023 </p>
+        <p>LushLife Nails.</p>
+        <p>All rights reserved.</p>
